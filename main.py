@@ -17,6 +17,6 @@ while True:
     else:
         print('А может быть все-таки введем целое число от 1 до 100?')
 
-
+# just for test
 
 
